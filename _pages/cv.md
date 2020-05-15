@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Applied Science in Spatial Analysis for Public Health, 2018
+* Bachelor of Computer and Information Sciences, IT Service Science Major, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Harmoney: Data Scientist (2017 ~ current)
+  * Real-time data streaming
+  * Machine learning and predictive modeling
+  * Data Visualisation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Bank of New Zealand: Business Intelligence Spacialist (2015 ~ 2017)
+  * Data Warehousing
+  * Software Development
+  * Reporting
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Language: Python, Java, C#, R
+* Data Management:
+  * Data Warehousing - ETL, Real-time Data Streaming
+  * Database - SQL Server, Snowflake
+  * Machine Learning - Predictive Modeling, Feature Impact Analysis, Geo-statistics
+  * Data Visualisation - Tableau, Python, Javascript
